@@ -28,7 +28,8 @@ KCPTUN_RELEASES_URL='https://api.github.com/repos/xtaci/kcptun/releases'
 KCPTUN_LATEST_RELEASE_URL="${KCPTUN_RELEASES_URL}/latest"
 KCPTUN_TAGS_URL='https://github.com/xtaci/kcptun/tags'
 
-BASE_URL='https://github.com/kuoruan/shell-scripts/raw/master/kcptun'
+# BASE_URL='https://github.com/kuoruan/shell-scripts/raw/master/kcptun'
+BASE_URL='https://github.com/198510xyz/shell-scripts/edit/master/kcptun'
 SHELL_VERSION_INFO_URL="${BASE_URL}/version.json"
 
 JQ_LINUX32_URL="${BASE_URL}/bin/jq-linux32"
